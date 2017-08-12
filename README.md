@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/OperationCode/operationcode_bot.svg?branch=master)](https://travis-ci.org/OperationCode/operationcode_bot)
 [![Code Climate](https://codeclimate.com/github/OperationCode/operationcode_bot/badges/gpa.svg)](https://codeclimate.com/github/OperationCode/operationcode_bot)
 [![Test Coverage](https://codeclimate.com/github/OperationCode/operationcode_bot/badges/coverage.svg)](https://codeclimate.com/github/OperationCode/operationcode_bot/coverage)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode_bot.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode_bot?ref=badge_shield)
 
 OperationCode Bot is a bot built to deal with the [Slack Events API](https://api.slack.com/events).
 When a subscribed event occurs:
@@ -69,3 +70,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/Operat
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode_bot.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode_bot?ref=badge_large)
