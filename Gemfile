@@ -10,7 +10,7 @@ gem 'operationcode-slack', git: 'https://github.com/OperationCode/operationcode-
 gem 'pry'
 gem 'rake'
 gem 'rb-readline'
-gem 'sinatra'
+gem 'sinatra', '>= 2.0.0'
 
 group :test do
   gem "codeclimate-test-reporter", "~> 1.0.0"
